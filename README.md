@@ -1,1 +1,0 @@
-# wasm_game-of-life
